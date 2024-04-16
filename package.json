@@ -1,8 +1,8 @@
 {
-  "name": "q.42",
+  "name": "q.43",
   "version": "1.0.0",
   "description": "",
-  "main": "Q42.js",
+  "main": "Q43.js",
   "type": "module",
   "types": "inquirer",
   "scripts": {
