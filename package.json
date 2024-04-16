@@ -1,8 +1,8 @@
 {
-  "name": "q.12",
+  "name": "q.13",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Q13.js",
   "type": "module",
   "types": "inquirer",
   "scripts": {
