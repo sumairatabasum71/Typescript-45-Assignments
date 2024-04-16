@@ -1,8 +1,8 @@
 {
-  "name": "q.36",
+  "name": "q.37",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Q37.js",
   "type": "module",
   "types": "inquirer",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.12.6"
+    "@types/node": "^20.12.7"
   }
 }
