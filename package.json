@@ -1,8 +1,8 @@
 {
-  "name": "q.24",
+  "name": "q.25",
   "version": "1.0.0",
   "description": "",
-  "main": "Q24.js",
+  "main": "Q25.js",
   "type": "module",
   "types": "inquirer",
   "scripts": {
