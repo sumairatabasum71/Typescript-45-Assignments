@@ -1,8 +1,7 @@
 {
-  "name": "q.9",
+  "name": "q.10",
   "version": "1.0.0",
-  "description": "",
-  "main": "Q9.js",
+  "main": "Q10.js",
   "type": "module",
   "types": "inquirer",
   "scripts": {
@@ -11,7 +10,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.17"
+  },
   "devDependencies": {
     "@types/node": "^20.12.5"
-  }
+  },
+  "description": ""
 }
